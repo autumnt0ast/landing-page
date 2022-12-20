@@ -2,11 +2,12 @@
 
 .header{
     background-color: #1f2937;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 #logo {
     color: #f9faf8;
     font-weight: bold;
-    font-family: 'Roboto', sans-serif;
     font-size: 24px;
 }
