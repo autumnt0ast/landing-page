@@ -12,13 +12,18 @@
     color: #f9faf8;
     font-weight: bold;
     font-size: 24px;
-    flex-
+    padding-left: 100px;
 }
 
 ul, .secondary {
     color: #E5E7EB;
     font size: 18px;
     list-style: none;
+    padding-right: 100px;
+}
+
+ul li {
+    display: inline-block;
 }
 
 h1 {
