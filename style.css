@@ -15,4 +15,10 @@
 ul, .secondary {
     color: #E5E7EB;
     font size: 18px;
+    list-style: none;
+}
+
+h1 {
+    font-weight:bolder;
+    font-size: 48px;
 }
