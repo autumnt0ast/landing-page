@@ -1,3 +1,9 @@
 .header{
     background-color: #1f2937;
 }
+
+#logo {
+    color: #f9faf8;
+    font-weight: bold;
+    font-family: 'roboto', 'sans-serif';
+}
