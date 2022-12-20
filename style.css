@@ -7,8 +7,12 @@
 
 }
 
-.header {
+.header{
     justify-content: space-between;
+}
+
+.bottom {
+    display: flex;
 }
 
 #logo {
@@ -52,4 +56,5 @@ button {
     margin: 5px;
     width: 260px;
     text-align: center;
+    justify-content: flex-end;
 }
