@@ -81,8 +81,17 @@ h2 {
     font-weight: bolder;
 }
 
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
 .mini-image {
     border-width: 2px;
     border-style: solid;
     border-color: #3882f6;
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
 }
