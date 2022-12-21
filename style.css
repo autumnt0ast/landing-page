@@ -21,6 +21,7 @@ body {
 
 .lower {
     justify-content: space-between;
+    padding-bottom: 50px;
 }
 
 .placeholder-image{
@@ -69,4 +70,19 @@ button {
 
 .information {
     background-color: #f9faf8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.mini-image {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #3882f6;
 }
