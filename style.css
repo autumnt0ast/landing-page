@@ -68,7 +68,7 @@ button {
     border: none;
 }
 
-.information {
+.information,.action {
     background-color: #f9faf8;
     display: flex;
     flex-direction: column;
@@ -107,5 +107,22 @@ h2 {
 
 .review {
     padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    font-size: 36px;
+    font-weight: lighter;
 }
+
+.speaker {
+    font-weight: normal;
+    font-size: 18px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+
