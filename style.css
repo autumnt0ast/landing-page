@@ -5,7 +5,7 @@ body {
     background-color: #1f2937;
 }
 
-.top, .subtext {
+.top, .lower {
     background-color: #1f2937;
     color: #f9faf8;
     display: flex;
@@ -16,14 +16,9 @@ body {
     padding-right: 300px;
 }
 
-.lower {
-    display: flex;
-    flex-direction: row;
-}
-
 .subtext {
     flex-direction: column;
-    flex: 1;
+    align-items: left;
     padding-left: 300px;
     padding-right: 300px;
 }
